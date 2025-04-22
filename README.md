@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Final_project
+>>>>>>> 45f8e40d6c72dac67da482f66609c726428aad33
 # Study Material Backend
 
 This is the backend for managing study materials. It provides functionality for uploading files, managing access control, and serving materials to users.
