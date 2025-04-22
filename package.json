@@ -1,0 +1,21 @@
+{
+  "name": "user-auth",
+  "version": "1.0.0",
+  "description": "A backend application for managing user authentication and study materials.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.2",
+    "mysql2": "^3.3.0",
+    "sequelize": "^6.37.7",
+    "sharp": "^0.34.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
